@@ -4,7 +4,7 @@ namespace NittanyNgine {
 	Application::Application()
 	{
 	}
-
+	
 	Application::~Application()
 	{
 	}
